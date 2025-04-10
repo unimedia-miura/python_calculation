@@ -1,2 +1,3 @@
 # python_calculation
-電卓ツール
+python練習用プロジェクトです。
+pythonで作成する電卓ツール
